@@ -1,7 +1,7 @@
 # Phenotype-to-Genotype
 
 A long-term computational research program investigating
-genotype → mechanism → phenotype relationships.
+genotype to phenotype relationships for gene editing.
 
 ## Research Index
 
