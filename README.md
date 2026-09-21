@@ -1,7 +1,8 @@
 # Phenotype-to-Genotype
 
-A long-term computational research program investigating
-genotype to phenotype relationships for gene editing.
+A long-term computational research program for contributing to the genetics research community by investigating
+genotype to phenotype relationships and advancing our understanding of the statistical methods that could lead to reproducible intentional gene editing.
+As in, ways to intentionally change phenotype in organisms by changing the genotype.
 
 ## Research Index
 
